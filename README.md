@@ -6,6 +6,8 @@
 
 [Live link](https://car-showcase-next13-drab.vercel.app/)
 
+##### Deployed on vercel
+
 Welcome to the Modern Next.js 13 Car Showcase & Search Application! This project is built using React, Next.js 13, TypeScript, and Tailwind CSS. It incorporates SEO optimization and server rendering to enhance user experience and performance. With this application, users can easily search for cars.
 
 ## Table of Contents
