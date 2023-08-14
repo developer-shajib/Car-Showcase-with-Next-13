@@ -1,18 +1,80 @@
-# Build and Deploy a Modern Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS
-![Car Showcase](https://i.ibb.co/GxvFJDZ/Thumbnail.png)
+# Modern Next.js 13 Car Showcase with search Application
 
-## Introduction
-The demand for Next.js 13 applications peaked! Now is the perfect time to build a state-of-the-art modern application that leverages all of the latest and greatest of what Next 13 has to offer, leveraging features such as server-side rendering and the app router. 
- 
-Alongside building this application, you'll also learn how to:
-- Use Next.js 13 App Router and Server Side Rendering
-- Implement Advanced Search Functionality
-- Create Filtering Capabilities
-- Optimize Metadata and SEO
-- Create custom filter, combobox, and modal elements
-- Maintain a well-organized file and folder structure.
-- Embrace the principles of writing clean code.
+Welcome to the Modern Next.js 13 Car Showcase & Search Application! This project is built using React, Next.js 13, TypeScript, and Tailwind CSS. It incorporates SEO optimization and server rendering to enhance user experience and performance. With this application, users can easily search for cars.
 
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+[Live link](https://developershajib.vercel.app/skill)
+
+## Table of Contents
+
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Running the Application](#running-the-application)
+- [Features](#features)
+- [SEO and Server Rendering](#seo-and-server-rendering)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Getting Started
+
+Follow these instructions to get the project up and running on your local machine.
+
+### Prerequisites
+
+- Node.js
+- npm
+- Git
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/developer-shajib/Car-Showcase-with-Next-13
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd Car-Showcase-with-Next-13
+```
+
+3. Install dependencies:
+
+```bash
+npm install
+```
+
+### Running the Application
+
+1. Start the development server:
+
+```bash
+npm run dev
+```
+
+2. Open your browser and navigate to `http://localhost:3000` to access the application.
+
+## Features
+
+- Car Search: Users can easily search for cars using the search feature.
+- Responsive Design: The application is responsive and works seamlessly on different devices.
+- Modern UI: The user interface is designed using Tailwind CSS for a sleek and modern look.
+
+## SEO and Server Rendering
+
+The application is optimized for SEO (Search Engine Optimization) to improve its visibility on search engines. Server rendering is implemented using Next.js, ensuring faster initial page loads and improved performance.
+
+## Technologies Used
+
+- React
+- Next.js 13
+- TypeScript
+- Tailwind CSS
+- SEO Optimization
+- Server Rendering
+
+Thank you for using the Modern Next.js 13 Car Search Application! If you have any questions or need assistance, please don't hesitate to open an issue or contact us.
+
+_This README template is provided for your convenience. Make sure to replace placeholders with actual project details._
